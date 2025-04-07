@@ -32,7 +32,7 @@
     <ClCompile Include="PPP\PPP.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ch4\ch4ex14.cpp">
+    <ClCompile Include="ch7\ex10.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

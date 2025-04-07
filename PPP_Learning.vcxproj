@@ -24,7 +24,7 @@
     <ClInclude Include="PPP\PPP_support.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch4\ch4ex14.cpp" />
+    <ClCompile Include="ch7\ex10.cpp" />
     <ClCompile Include="PPP\PPP.ixx" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
