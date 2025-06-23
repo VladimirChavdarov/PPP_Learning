@@ -1,0 +1,5 @@
+this test contains the word
+this line doesn't contain the word
+this test contains the word test twice
+this is a placeholder line
+testesttestest

@@ -27,12 +27,30 @@
     <ClInclude Include="PPP\PPP_support.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ch8\Date.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ch8\ex2\NamePairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ch8\ex5\Library.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PPP\PPP.ixx">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ch7\ex10.cpp">
+    <ClCompile Include="ch8\Date.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8\ex2\NamePairs.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch8\ex5\Library.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ch10\Chapter9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

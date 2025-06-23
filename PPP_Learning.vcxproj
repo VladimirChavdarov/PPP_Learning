@@ -19,12 +19,18 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ch8\ex5\Library.h" />
+    <ClInclude Include="ch8\Date.h" />
+    <ClInclude Include="ch8\ex2\NamePairs.h" />
     <ClInclude Include="PPP\PPP.h" />
     <ClInclude Include="PPP\PPPheaders.h" />
     <ClInclude Include="PPP\PPP_support.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ch7\ex10.cpp" />
+    <ClCompile Include="ch10\Chapter9.cpp" />
+    <ClCompile Include="ch8\ex5\Library.cpp" />
+    <ClCompile Include="ch8\Date.cpp" />
+    <ClCompile Include="ch8\ex2\NamePairs.cpp" />
     <ClCompile Include="PPP\PPP.ixx" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
@@ -116,6 +122,7 @@
       <LanguageStandard>stdcpplatest</LanguageStandard>
       <ScanSourceForModuleDependencies>true</ScanSourceForModuleDependencies>
       <BuildStlModules>true</BuildStlModules>
+      <EnableModules>true</EnableModules>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>

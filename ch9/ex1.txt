@@ -1,0 +1,3 @@
+THIS IS UPPERCASE
+this is lowercase
+This Is Mixed
