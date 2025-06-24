@@ -53,5 +53,8 @@
     <ClCompile Include="ch10\Chapter9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ch9\ch9ex1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

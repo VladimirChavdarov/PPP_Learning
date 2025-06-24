@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.14.36202.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PPP_Learning", "PPP_Learning\PPP_Learning.vcxproj", "{E1DD1EDF-A1EE-49B7-A80E-9607A14C9E85}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PPP_Learning", "PPP_Learning.vcxproj", "{E1DD1EDF-A1EE-49B7-A80E-9607A14C9E85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -24,5 +24,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8D4F5C6-919F-43B8-9C24-9137B217B2BA}
 	EndGlobalSection
 EndGlobal

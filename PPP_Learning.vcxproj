@@ -31,6 +31,7 @@
     <ClCompile Include="ch8\ex5\Library.cpp" />
     <ClCompile Include="ch8\Date.cpp" />
     <ClCompile Include="ch8\ex2\NamePairs.cpp" />
+    <ClCompile Include="ch9\ch9ex1.cpp" />
     <ClCompile Include="PPP\PPP.ixx" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
